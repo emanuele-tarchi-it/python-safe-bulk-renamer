@@ -1,5 +1,8 @@
 # Python Bulk File Renamer
-**Version 1.0.0** | **License: MIT**
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
 A robust and safe command-line utility to rename multiple files at once. Designed with a "Safety First" approach for professionals managing large datasets, photos, or documents.
 
@@ -20,7 +23,7 @@ A robust and safe command-line utility to rename multiple files at once. Designe
 4. Run the script: `python renamer.py`
 
 ## 📄 License
-This project is licensed under the **MIT License** - see the LICENSE file for details. This means you are free to use, modify, and distribute it for personal or commercial projects.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
-*Developed by Emanuele Tarchi as part of a Python Automation Portfolio.*
+*Developed by Emanuele Tarchi | Automation Specialist Portfolio*
